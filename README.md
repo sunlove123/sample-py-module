@@ -14,7 +14,7 @@ should type the command "python setup.py sdist"
 Step 3: Uploading Wheel Package
 
 To upload the wheel package you should have "twine" installed in your machine(if Ubunty you can get twine using "apt-get install twine") 
-you can use the command "twine upload dist/\*" to upload the package.
+you can use the command "twine upload dist/*" to upload the package.
 
 How to use the uploaded module.
 
