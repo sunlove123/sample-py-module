@@ -9,7 +9,7 @@ You can create any method on your own which needs to be called after importing t
 Step 2: Should compile the python using sdist
 
 You should be in the directory parallel to setup.py
-should type the command "python setup.py sdist"
+should type the command "python setup.py sdist/*"
 
 Step 3: Uploading Wheel Package
 
